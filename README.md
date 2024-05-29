@@ -1,10 +1,13 @@
+# README AND GAME IN PROGRESS
+
+
 # Strength after
 Aimed at ages 18-25, the 1-2 minute game offers a quick look into the life of a celebrity refugee. The game allows the player to help the refugee.
 
 ## Link to deployed page: 
 https://vickysug.github.io/strength-after/
 
-README in progress.
+
 
 
 ## End mission:
