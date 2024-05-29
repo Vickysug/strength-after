@@ -7,6 +7,9 @@ Aimed at ages 18-25, the 1-2 minute game offers a quick look into the life of a 
 ## Link to deployed page: 
 https://vickysug.github.io/strength-after/
 
+Screenshot of start screen
+![alt text](images/game.scrn.shot.png)
+
 
 
 
